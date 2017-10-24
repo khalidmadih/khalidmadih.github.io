@@ -1,0 +1,64 @@
+header {
+	background-color: #333333;
+	text-align: center;
+	color: white font-family: Segoe UI Light
+}
+
+h1 {
+	color: #eee;
+	font-size: 28px;
+}
+
+h2 {
+	font-size: 24px;
+}
+
+div.titre {
+	width: 1024px;
+	margin: 0 auto;
+	text-align: left;
+}
+
+.main-bio {
+	display: inline-block;
+	float: right;
+	width: 70%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+.contact-info {
+	float: left;
+	width: 30%;
+}
+
+.bio-image {
+	float: left;
+	width: 200px;
+}
+
+a {
+	color: #d21034;
+}
+
+body {
+	background-color: #efeee7;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #333333;
+	margin: 10;
+	padding: 0;
+}
+
+.col {
+	width: 49%;
+	display: inline-block;
+	float: left;
+}
+
+.container {
+	padding: 0 30px;
+	width: 1024px;
+	margin: 0 auto;
+}
